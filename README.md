@@ -4,7 +4,7 @@ I'm a 19 Year-Old First-Year Biochemistry Student **@CalPoly SLO** and 2024 Summ
 
 My Pronouns are She/They, I'm based in San Luis Obispo, CA :sunny:, and after class/work you'll find me:
 * Experimenting in the Kitchen :honey_pot:
-* Soaking in Hot Springs :sunglasses:
+* Chasing Hot Springs :sunglasses:
 * Foraging/In the Garden :mushroom:
 * Playing Soccer :soccer:
 * Or Caving with Friends :tent:
