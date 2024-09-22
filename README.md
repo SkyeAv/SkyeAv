@@ -1,10 +1,11 @@
-## Hi!! I'm Skye!
+## Hi! I'm Skye!! (She/They)
+### I'm an undergrad biochem student, part-time data scientist, and researcher in San Luis Obispo, CA. :us:
+I apply systems biology to modern problems to advance human understanding and improve our lives. 
 
-I'm a 19 Year-Old Biochemistry Student **@CalPoly SLO**, Data Scientist, and 2024 Summer Undergraduate Intern-Trainee **@ISB** in Seattle, WA :us:
+Outside, you'll find me 
+* cooking,
+* soaking in hot springs,
+* foraging, gardening,
+* or caving with friends.
 
-My Pronouns are She/They, I'm based in San Luis Obispo, CA :sunny:, and after class/work you'll find me:
-* Experimenting in the Kitchen :honey_pot:
-* Chasing Hot Springs :sunglasses:
-* Foraging/In the Garden :mushroom:
-* Playing Soccer :soccer:
-* Or Caving with Friends :tent:
+**I can't wait to work with you all!**
