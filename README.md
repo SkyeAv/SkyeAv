@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Skye Goetz (She/They) [LinkedIn](https://www.linkedin.com/in/skye-lane-goetz/)
+# 👋 Hi! I'm Skye Goetz [LinkedIn](https://www.linkedin.com/in/skye-lane-goetz/)
 
 I'm an **undergraduate biochemistry student**, a **part-time data scientist**, and a **researcher** based in San Luis Obispo, CA 🇺🇸. My work bridges the gap between biological sciences and computational methods, focusing on **interdisciplinary approaches** to solve complex problems. I am passionate about using data and research to advance human understanding and improve lives.
 
