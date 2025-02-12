@@ -2,22 +2,17 @@
 
 I'm an **undergraduate biochemistry student**, a **part-time data scientist**, and a **researcher** based in San Luis Obispo, CA 🇺🇸. My work bridges the gap between biological sciences and computational methods, focusing on **interdisciplinary approaches** to solve complex problems. I am passionate about using data and research to advance human understanding and improve lives.
 
-### 🔧 **Technologies & Tools**
-I'm proficient in a variety of programming languages and tools, including but not limited to:
-- Python
-- Julia
-- SQL
-- Unix
-- Scala
-- Clojure
-- Nim
-- Pytorch
-- Pandas
-- Spark
-- Numpy
-- Sklearn
-- Matplotlib
-- RDKit
+### 🔧 **Technologies & Tools**  
+I have experience working with a diverse set of languages, frameworks, and tools:  
+
+#### 📌 **Programming Languages**  
+`Python` • `Julia` • `SQL` • `Scala` • `Clojure` • `Nim` • `Unix`  
+
+#### 📚 **Data Science & Machine Learning**  
+`PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `RDKit`  
+
+#### ⚡ **Big Data & Distributed Computing**  
+`Apache Spark`  
 
 ### 🌱 **What I Do**
 I thrive at the intersection of biology, data, and computing, working on projects that apply:
