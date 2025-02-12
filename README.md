@@ -9,7 +9,7 @@ I have experience working with a diverse set of languages, frameworks, and tools
 `Python` • `Julia` • `SQL` • `Scala` • `Clojure` • `Nim` • `Unix`  
 
 #### 📚 **Data Science & Machine Learning**  
-`PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `RDKit`  
+`PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Scipy` • `RDKit`  
 
 #### ⚡ **Big Data & Distributed Computing**  
 `Apache Spark`  
