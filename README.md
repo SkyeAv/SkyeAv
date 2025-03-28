@@ -6,7 +6,7 @@ I'm an **undergraduate biochemistry student**, a **part-time data scientist**, a
 I have experience working with a diverse set of languages, frameworks, and tools:  
 
 #### 📌 **Programming Languages**  
-`Python` • `Julia` • `Clojure` • `SQL` • `Unix` • `Nim` 
+`Python` • `Clojure` • `Julia` • `SQL` • `Unix`
 
 #### 📚 **Data Science & Machine Learning**  
 `PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Scipy` • `NLTK`  
