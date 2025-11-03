@@ -12,3 +12,4 @@ Integrating Artificial Intelligence, Data Science, and Multiomics for Biological
 - **DevOps:** Nix, Docker, Setuptools, Mix, Pytest, Kubernetes
 - **Biology:** Heterogenous Multiomic Data, Shotgun Metagenomics, Polygenic Risk Scores, ELISA
 - **Chemistry:** DFT, Mass Spectrometry, Proton NMR, FTIR, Organic Synthesis, Equillibreum
+- **Hobbies:** Cooking, Skiing, Geometry Dash, Gardening, Travel, Hiking
