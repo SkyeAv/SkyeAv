@@ -11,4 +11,4 @@ Integrating Artificial Intelligence, Data Science, and Multiomics for Biological
 - **NLP:** spaCy, NLTK, Embeddings, Text Classification, TF-IDF
 - **DevOps:** Nix, Docker, Setuptools, Mix, Pytest, Kubernetes
 - **Biology:** Heterogenous Multiomic Data, Shotgun Metagenomics, Polygenic Risk Scores, ELISA
-- **Chemistry:** DFT, Mass Spectrometry, $^1$H NMR, FTIR, Organic Synthesis, Equillibreum
+- **Chemistry:** DFT, Mass Spectrometry, Proton NMR, FTIR, Organic Synthesis, Equillibreum
