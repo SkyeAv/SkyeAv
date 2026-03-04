@@ -1,4 +1,4 @@
-# [Skye Lane Goetz](www.linkedin.com/in/skye-lane-goetz)
+# [Skye Lane Goetz](https://www.linkedin.com/in/skye-lane-goetz)
 
 ## Applied AI/ML Engineer | Biomedical Data Scientist
 
