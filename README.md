@@ -1,15 +1,11 @@
 # [Skye Lane Goetz](https://SkyeAv.github.io/SkyeSite/)
 
-## Biomedical Research Scientist (AI & Data)
+## Applied AI/ML Engineer | Biomedical Data Scientist
 
-Integrating Artificial Intelligence, Data Science, and Multiomics for Biological Systems Discovery. Focus on Knowledge Graphs, Explainable Models, and Large-Scale Biomedical Data Integration.
-
-- **Languages:** Python, Elixir, SQL, Shell Scripting, LaTeX, Julia, Nim, Clojure
-- **Data Science:** Polars, Spark, Numpy, Matplotlib, Sqlite, Postgres, DuckDB
-- **AI/ML:** PyTorch, LightGBM, Scikit-learn, LangChain, MCP, Snorkel, Transformers, PEFT, ChromaDB
-- **Knowledge Graphs:** Graph Databases, Ontology, KGX, Centrality, Graph Neural Networks
-- **NLP:** spaCy, NLTK, Embeddings, Text Classification, TF-IDF
-- **DevOps:** Nix, Docker, Setuptools, Mix, Pytest, FastAPI, Kubernetes
-- **Biology:** Heterogenous Multiomic Data, Shotgun Metagenomics, Polygenic Risk Scores, ELISA
-- **Chemistry:** DFT, Mass Spectrometry, Proton NMR, FTIR, Organic Synthesis, Equillibreum
-- **Hobbies:** Cooking, Skiing, Geometry Dash, Gardening, Travel, Hiking
+- **Languages:** Python, Elixir, SQL, Shell, LaTeX, Nim, Julia
+- **AI/ML:** PyTorch, LightGBM, Scikit-learn, LangGraph, MCP, Transformers (HuggingFace), PEFT, Diffusers, Ollama, Snorkel
+- **Data & Storage:** Polars, DuckDB, PostgreSQL, SQLite, ChromaDB, Spark, NumPy
+- **Knowledge Graphs:** Biolink, KGX, LinkML, Ontology Mapping, Neo4j, NetworkX, Graph Centrality
+- **NLP:** spaCy, NLTK, Sentence Transformers, BERT, TF-IDF, Text Classification, PCA
+- **DevOps/Infrastructure:** Nix/NixOS, Docker, FastAPI, Kubernetes, GitHub Packages/Actions
+- **Domain:** Multiomic Data, Shotgun Metagenomics, Polygenic Risk Scores, Organic Chemistry, DFT
