@@ -6,7 +6,7 @@ I build the [Tablassert](https://github.com/SkyeAv/Tablassert) ecosystem (tools 
 
 ## Skills
 
-- **Languages:** Python, Go, Elixir, TypeScript, SQL, Shell, LaTeX
+- **Languages:** Python, Rust, Go, Elixir, Julia, TypeScript, SQL, Shell, LaTeX
 - **AI/ML:** PyTorch, LightGBM, Scikit-learn, LangGraph, MCP, Transformers, PEFT, Diffusers, Ollama, Snorkel
 - **Data & Storage:** Polars, DuckDB, PostgreSQL, Redis, SQLite, ChromaDB, NumPy
 - **Knowledge Graphs:** Biolink, KGX, LinkML, Ontology Mapping, Neo4j, NetworkX, Centrality Algorithms
