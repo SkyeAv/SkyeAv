@@ -2,17 +2,15 @@
 
 **Applied AI & Knowledge Graph Engineer** @ Institute for Systems Biology
 
-I build the [Tablassert](https://github.com/SkyeAv/Tablassert) ecosystem (tools that turn messy tabular biomedical data into NCATS Translator-compliant knowledge graphs) and contribute to open-source projects across the Translator ecosystem.
+Polyglot engineer building AI/ML systems, data pipelines, and backend services across a range of languages. My focus area is biomedical knowledge graphs — I build the [Tablassert](https://github.com/SkyeAv/Tablassert) ecosystem, turning messy tabular data into NCATS Translator-compliant knowledge graphs, and contribute across the open-source Translator stack.
 
 ## Skills
 
-- **Languages:** Python, Rust, Go, Elixir, Julia, TypeScript, SQL, Shell, LaTeX
-- **AI/ML:** PyTorch, LightGBM, Scikit-learn, LangGraph, MCP, Transformers, PEFT, Diffusers, Ollama, Snorkel
-- **Data & Storage:** Polars, DuckDB, PostgreSQL, Redis, SQLite, ChromaDB, NumPy
-- **Knowledge Graphs:** Biolink, KGX, LinkML, Ontology Mapping, Neo4j, NetworkX, Centrality Algorithms
-- **NLP:** spaCy, Autoencoders, Sentence Transformers, BERT, Text Classification, PCA, KernelPCA
-- **DevOps/Infra:** Nix/NixOS, Docker, QEMU/KVM, FastAPI, Gin, GitHub Packages/Actions
-- **Domain:** Multi-Omics, Clinical Trials, Polygenic Risk Scores, Quantum Chemistry, TD-DFT
+- **Languages:** Python, Rust, Go, Elixir, SQL, Shell
+- **AI/ML:** Deep learning (PyTorch), LLM agents & MCP (LangGraph, LangChain), model fine-tuning (Transformers, PEFT), gradient boosting (LightGBM), classical ML & NLP (Scikit-learn, spaCy, sentence transformers)
+- **Knowledge Graphs & Ontologies:** Ontology mapping & modeling (Biolink, LinkML, KGX), graph construction & analysis (Neo4j, NetworkX), analytical & relational stores (DuckDB, Polars, PostgreSQL, Redis), ETL pipeline design
+- **Backend & Infrastructure:** API services (FastAPI, Gin), Nix/NixOS & nix-darwin, Docker, virtualization (QEMU/KVM), CI/CD (GitHub Actions)
+- **Biomedical Domain:** Multi-omics, clinical-trial data, biomedical entity resolution & knowledge integration (NCATS Translator / Biolink)
 
 ## Contact
 
