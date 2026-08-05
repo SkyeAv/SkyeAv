@@ -1,4 +1,4 @@
-# [Skye Lane Goetz](https://www.linkedin.com/in/skye-lane-goetz)
+# Skye Lane Goetz
 
 **Applied AI & Knowledge Graph Engineer** @ Institute for Systems Biology
 
