@@ -2,7 +2,7 @@
 
 **Applied AI & Knowledge Graph Engineer** @ Institute for Systems Biology
 
-Polyglot engineer building AI/ML systems, data pipelines, and backend services across a range of languages. My focus area is biomedical knowledge graphs: I build the [Tablassert](https://github.com/SkyeAv/Tablassert) ecosystem, turning messy tabular data into NCATS Translator-compliant knowledge graphs, and contribute across the open-source Translator stack.
+Polyglot engineer building AI/ML systems, data pipelines, and backend services across a range of languages. My focus area is biomedical knowledge graphs: I build the [Tablassert](https://github.com/SkyeAv/Tablassert) ecosystem, which turns messy tabular data into NCATS Translator-compliant knowledge graphs, including an autonomous agent pipeline that derives table configurations with GEPA prompt optimization. I also contribute to the open-source Translator stack ([biolink-model](https://github.com/biolink/biolink-model), [Babel](https://github.com/NCATSTranslator/Babel), [RTX](https://github.com/RTXteam/RTX), [shepherd](https://github.com/BioPack-team/shepherd)).
 
 ## Skills
 
